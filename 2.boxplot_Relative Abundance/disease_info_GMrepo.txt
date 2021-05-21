@@ -1,0 +1,6 @@
+D003093 Colitis_Ulcerative
+D015179 Colorectal_Neoplasms
+D043183 Irritable_Bowel_Syndrome
+D003424 Crohn_Disease
+D009765 Obesity
+D003924 Diabetes_Mellitus_Type_2
